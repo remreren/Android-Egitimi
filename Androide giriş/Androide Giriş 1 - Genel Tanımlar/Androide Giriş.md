@@ -17,6 +17,8 @@ Daha önceden bahsetmiştik Java’nın nasıl çalıştığından fakat şimdi 
 ## JVM Nedir? 
 JVM(Java Virtual Machine) bytecode dan oluşan paketleri (yani uygulamaları) makineyle haberleştiren aracıdır. JVM platformlara özel olarak yazılır (Linux, Windows ve Mac gibi).
 
+![JVM Nedir](https://github.com/Ritotwo/Android-Egitimi/blob/master/Androide%20giri%C5%9F/Androide%20Giri%C5%9F%201%20-%20Genel%20Tan%C4%B1mlar/jvm-nedir.png)
+
 ## JRE Nedir? 
 
 JRE(Java Runtime Environment) Java ile yazılmış olan uygulamaların çalışmasını sağlayan kütüphaneleri JVM e sağlayan bileşendir. Bir uygulama çalışmak için JREnin sağladığı paketlere ihtiyaç duyar. Tek başına JVM uygulamayı çalıştırmaya yetmez.
