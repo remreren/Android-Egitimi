@@ -28,7 +28,7 @@ JRE(Java Runtime Environment) Java ile yazılmış olan uygulamaların çalışm
 JDK(Java Development Kit) Java ile yazılmış olan uygulamaların derlenmesini sağlayan bileşenleri barındırır. Aynı zamanda JDK kuruluyken bir uygulamaya hata ayıklama da yapabiliriz.
 JDK içerisinde JRE ve geliştirme kitlerini barındırır. JRE içerisinde JVM ve kütüphaneleri barındırır.
 
-RESIM 
+![JDK JRE JVM Tablosu](https://github.com/Ritotwo/Android-Egitimi/blob/master/Androide%20giri%C5%9F/Androide%20Giri%C5%9F%201%20-%20Genel%20Tan%C4%B1mlar/jdk-jre-jvm.png)
 
 ## Compiler (Derleyici) Nedir? 
 
